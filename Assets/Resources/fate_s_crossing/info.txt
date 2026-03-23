@@ -1,0 +1,6 @@
+Fate's Crossing
+
+Created by Thomas Trocha for Retro Platform Jam #6
+
+The game binary is supposed to run on a Gameboy Advance or emulator like mgba.
+

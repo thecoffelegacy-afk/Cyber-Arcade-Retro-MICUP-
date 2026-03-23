@@ -1,0 +1,2 @@
+﻿using UnityEngine;
+public class ArcadeMachine : MonoBehaviour { public ArcadeEmulatorManager emulatorManager; void OnTriggerStay(Collider other) { if (other.CompareTag("Player")) { if (Input.GetKeyDown(KeyCode.E)) { emulatorManager.OpenEmulator(); } } } }
